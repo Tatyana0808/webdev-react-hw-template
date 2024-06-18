@@ -1,5 +1,5 @@
 import Bar from "@components/Bar/Bar";
-import CentrBlock from "@components/Centerblock/CentrBlock";
+import CentrBlock from "@components/CentrBlock/CentrBlock";
 import MainSlideBar from "@components/MainSlideBar/MainSlideBar";
 import Nav from "@components/Nav/Nav";
 import styles from "@components/Main/Main.module.css";
